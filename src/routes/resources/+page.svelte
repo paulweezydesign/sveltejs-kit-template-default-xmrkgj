@@ -1,0 +1,1 @@
+<h1 class='text-7xl font-black'>Resources and Such</h1>
